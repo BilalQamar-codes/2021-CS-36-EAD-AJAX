@@ -1,1 +1,1 @@
-## AJAX Methodology for requests 
+## AJAX methodology for requests in web
