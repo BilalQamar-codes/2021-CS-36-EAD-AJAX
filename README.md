@@ -1,0 +1,1 @@
+## AJAX Methodology for requests 
